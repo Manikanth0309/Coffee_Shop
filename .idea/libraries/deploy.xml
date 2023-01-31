@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="deploy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/deploy.jar!/" />
+      <root url="file://$PROJECT_DIR$/.idea/libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/.idea/libraries" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.idea/libraries" recursive="false" />
+  </library>
+</component>
